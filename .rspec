@@ -1,0 +1,6 @@
+# This 'dot rspec file' is where you put settings 
+#
+# The below shows you the details of what passed. 
+# Could also add colour, but it is already implemented in my env
+
+--format documentation
